@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3202e2a3-ed6d-45d5-96d7-e8def3693a40" name="Changes" comment="feat : applicationContext, GC, SSR, Single ton">
+    <list default="true" id="3202e2a3-ed6d-45d5-96d7-e8def3693a40" name="Changes" comment="feat : 병목현상, 유니캐스트, 멀티캐스트, 브로드캐스트">
+      <change afterPath="$PROJECT_DIR$/CS/LAN, MAN, WAN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,9 +33,10 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/velrn/OneDrive/바탕 화면/JAVA/study&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gram15/Desktop/study/Study&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -43,6 +46,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gram15\Desktop\study\Study\img" />
+      <recent name="C:\Users\gram15\Desktop\study\Study\img_6" />
+      <recent name="C:\Users\gram15\Desktop\study\Study\img_5" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="study" />
@@ -76,6 +86,8 @@
       <workItem from="1704284086668" duration="2093000" />
       <workItem from="1704286222512" duration="48000" />
       <workItem from="1704286283801" duration="32000" />
+      <workItem from="1708602740251" duration="672000" />
+      <workItem from="1708675337591" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="feat : 설정">
       <option name="closed" value="true" />
@@ -93,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704285765006</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat : 병목현상, 유니캐스트, 멀티캐스트, 브로드캐스트">
+      <option name="closed" value="true" />
+      <created>1708603375585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708603375585</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +133,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat : 설정" />
     <MESSAGE value="feat : applicationContext, GC, SSR, Single ton" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : applicationContext, GC, SSR, Single ton" />
+    <MESSAGE value="feat : 병목현상, 유니캐스트, 멀티캐스트, 브로드캐스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : 병목현상, 유니캐스트, 멀티캐스트, 브로드캐스트" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
