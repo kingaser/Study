@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3202e2a3-ed6d-45d5-96d7-e8def3693a40" name="Changes" comment="feat : 병목현상, 유니캐스트, 멀티캐스트, 브로드캐스트">
-      <change afterPath="$PROJECT_DIR$/CS/LAN, MAN, WAN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3202e2a3-ed6d-45d5-96d7-e8def3693a40" name="Changes" comment="feat : LAN, MAN, WAN">
+      <change afterPath="$PROJECT_DIR$/CS/TCP,IP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +87,8 @@
       <workItem from="1704286222512" duration="48000" />
       <workItem from="1704286283801" duration="32000" />
       <workItem from="1708602740251" duration="672000" />
-      <workItem from="1708675337591" duration="295000" />
+      <workItem from="1708675337591" duration="655000" />
+      <workItem from="1708741913820" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="feat : 설정">
       <option name="closed" value="true" />
@@ -113,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708603375585</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat : LAN, MAN, WAN">
+      <option name="closed" value="true" />
+      <created>1708675983118</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708675983118</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +143,8 @@
     <MESSAGE value="feat : 설정" />
     <MESSAGE value="feat : applicationContext, GC, SSR, Single ton" />
     <MESSAGE value="feat : 병목현상, 유니캐스트, 멀티캐스트, 브로드캐스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : 병목현상, 유니캐스트, 멀티캐스트, 브로드캐스트" />
+    <MESSAGE value="feat : LAN, MAN, WAN" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : LAN, MAN, WAN" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
