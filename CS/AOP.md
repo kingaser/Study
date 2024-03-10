@@ -29,8 +29,8 @@
 - Aspect의 Advice를 해당하는 Join Point에 적용하여 어플리케이션 코드에 Aspect의 동작을 끼워 넣는 프로세스
 
 ---
-AOP는 코드의 재사용성을 높이고 관심사의 분리를 통해 유지보수를 간소화하는데 도움   
-주요한 AOP 프레임워크로는 Java 에서는 Spring AOP, Python 에서는 AspectLib, .NET에서는 PostSharp
+- AOP는 코드의 재사용성을 높이고 관심사의 분리를 통해 유지보수를 간소화하는데 도움을 줍니다.
+- 주요한 AOP 프레임워크로는 Java 에서는 Spring AOP, Python 에서는 AspectLib, .NET에서는 PostSharp
 ---
 
 ### 장점
