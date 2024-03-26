@@ -7,7 +7,9 @@ TCP의 연결해제 4개의 과정
 - 서버는 LAST_ACK상태가 되며 일정 시간 이후에 클라이언트에 FIN이라는 세그먼트를 보냄
 - 클라이언트는 TIME_WAIT 상태가 되고 다시 서버로 ACK를 보내서 서버는 CLOSED 상태가 되며 이후
 클라이언트는 어느 정도의 시간(TIME_WAIT으로 설정된 시간)을 대기한 후 연결이 닫힘
-![img_2.png](../img/img_29.png)
+
+![image](https://github.com/kingaser/Study/assets/104209781/f73db621-a4f3-4b73-b648-cb35297974c5)
+
 
 ### TIME_WAIT
 - TIME_WAIT는 지연 패킷 등이 발생했을 때 데이터 무결성을 해결하기 위해 패킷을 기다리는 시간을 말함
